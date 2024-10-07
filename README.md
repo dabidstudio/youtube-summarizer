@@ -33,14 +33,14 @@ pip3 install streamlit youtube-transcript-api openai
 
 1. **venv** 모듈을 사용하여 가상환경을 생성
 
-```bash
-python -m venv venv
-```
-
-맥북의 경우
-```bash
-python3 -m venv venv
-```
+   ```bash
+   python -m venv venv
+   ```
+   
+   맥북의 경우
+   ```bash
+   python3 -m venv venv
+   ```
 
 2. 가상환경 활성화.
 
@@ -68,13 +68,6 @@ python3 -m venv venv
    pip3 install streamlit youtube-transcript-api openai
    ```
 
-
-
-4. 필요 작업이 끝난 후 가상환경을 비활성화하려면 다음 명령어를 입력합니다.
-
-```bash
-deactivate
-```
 
 ## 3. 코드 실행 방법
 
