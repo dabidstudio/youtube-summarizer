@@ -56,17 +56,17 @@ python3 -m venv venv
    source venv/bin/activate
    ```
 
-터미널에서 (venv)라고 표시가 되면 가상환경 활성화가 완료됨
+   터미널에서 (venv)라고 표시가 되면 가상환경 활성화가 완료됨
 
 3. 가상환경이 활성화되었으면, 다시 라이브러리를 설치.
 
-```bash
-pip install streamlit youtube-transcript-api openai
-```
-맥북
-```bash
-pip3 install streamlit youtube-transcript-api openai
-```
+   ```bash
+   pip install streamlit youtube-transcript-api openai
+   ```
+   맥북
+   ```bash
+   pip3 install streamlit youtube-transcript-api openai
+   ```
 
 
 
